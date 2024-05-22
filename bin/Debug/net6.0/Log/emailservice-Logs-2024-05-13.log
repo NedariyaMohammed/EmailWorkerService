@@ -1,0 +1,144 @@
+2024-05-13 18:09:47.9687||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:49.9644||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:51.6850||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:52.9204||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:54.1112||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:55.6232||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:56.8203||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:58.0199||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:09:59.2042||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:00.3885||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:01.5831||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:02.7602||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:03.9250||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:44.5253||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:45.9598||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:47.1030||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:48.2386||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:49.3549||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:50.4936||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:51.6252||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:52.7443||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:53.8984||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:55.0718||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:56.2491||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:57.4318||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:58.6126||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:10:59.7990||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:11:00.9964||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:11:02.1798||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:11:03.3430||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:11:04.5157||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:11:05.6794||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:12:14.6887||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 38
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
+2024-05-13 18:14:48.2179||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata)
+   at EmailWorkerService.EmailBL.SendMail()
+2024-05-13 18:15:13.8053||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata)
+   at EmailWorkerService.EmailBL.SendMail()
+2024-05-13 18:25:43.7792||ERROR|EmailWorkerService.Service.EmailService|Value cannot be null. (Parameter 'text') System.ArgumentNullException: Value cannot be null. (Parameter 'text')
+   at MimeKit.MailboxAddress.Parse(ParserOptions options, String text)
+   at EmailWorkerService.Service.EmailService.SendEmailAsync(EMail emaildata) in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\Service\EmailService.cs:line 37
+   at EmailWorkerService.EmailBL.SendMail() in C:\Users\Admin\source\repos\EmailWorkerService\EmailWorkerService\EmailBL\EmailBL.cs:line 43
