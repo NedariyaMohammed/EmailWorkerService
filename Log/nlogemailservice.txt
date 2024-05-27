@@ -86,3 +86,1328 @@
 2024-05-13 18:33:18.1808 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
 2024-05-13 18:33:18.2230 Info Closing old configuration.
 2024-05-13 18:33:18.2898 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 15:45:24.4963 Info Message Template Auto Format enabled
+2024-05-14 15:45:25.5637 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 15:45:26.9710 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 15:45:27.8040 Info Registered target FileTarget(Name=allfile)
+2024-05-14 15:45:27.9323 Info Message Template Auto Format enabled
+2024-05-14 15:45:27.9323 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 15:45:27.9323 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 15:45:27.9323 Info Registered target FileTarget(Name=allfile)
+2024-05-14 15:45:27.9647 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 15:45:28.0021 Info Closing old configuration.
+2024-05-14 15:45:28.1108 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:09:57.5570 Info Message Template Auto Format enabled
+2024-05-14 18:09:57.6147 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:09:57.8155 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:09:58.0513 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:09:58.1699 Info Message Template Auto Format enabled
+2024-05-14 18:09:58.1699 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:09:58.1699 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:09:58.1749 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:09:58.2023 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:09:58.2375 Info Closing old configuration.
+2024-05-14 18:09:58.2866 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:10:55.2952 Info Message Template Auto Format enabled
+2024-05-14 18:10:55.3367 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:10:55.6339 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:10:55.8571 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:10:55.9830 Info Message Template Auto Format enabled
+2024-05-14 18:10:55.9830 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:10:55.9830 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:10:55.9892 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:10:56.0149 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:10:56.0542 Info Closing old configuration.
+2024-05-14 18:10:56.1025 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:13:12.2274 Info Message Template Auto Format enabled
+2024-05-14 18:13:12.2695 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:13:12.4046 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:13:12.7903 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:13:13.1624 Info Message Template Auto Format enabled
+2024-05-14 18:13:13.1624 Info Loading assembly: NLog.Extensions.Logging
+2024-05-14 18:13:13.1624 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-14 18:13:13.1624 Info Registered target FileTarget(Name=allfile)
+2024-05-14 18:13:13.2280 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-14 18:13:13.3267 Info Closing old configuration.
+2024-05-14 18:13:13.8487 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:11:23.7955 Info Message Template Auto Format enabled
+2024-05-15 17:11:23.8339 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:11:24.0355 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:11:24.5981 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:11:25.4744 Info Message Template Auto Format enabled
+2024-05-15 17:11:25.5652 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:11:25.6082 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:11:25.6674 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:11:25.6852 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:11:25.7830 Info Closing old configuration.
+2024-05-15 17:11:25.8965 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:21:33.0360 Info Message Template Auto Format enabled
+2024-05-15 17:21:33.0664 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:21:33.3541 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:21:35.2431 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:21:35.4044 Info Message Template Auto Format enabled
+2024-05-15 17:21:35.4044 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:21:35.4044 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:21:35.4132 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:21:35.4409 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:21:35.4936 Info Closing old configuration.
+2024-05-15 17:21:35.5521 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:25:14.9023 Info Message Template Auto Format enabled
+2024-05-15 17:25:14.9983 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:25:15.3352 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:25:15.4948 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:25:15.5927 Info Message Template Auto Format enabled
+2024-05-15 17:25:15.5927 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:25:15.5999 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:25:15.5999 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:25:15.6293 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:25:15.6758 Info Closing old configuration.
+2024-05-15 17:25:15.7188 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:34:07.3874 Info Message Template Auto Format enabled
+2024-05-15 17:34:07.4323 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:34:07.5690 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:34:07.7581 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:34:07.8885 Info Message Template Auto Format enabled
+2024-05-15 17:34:07.8885 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 17:34:07.8885 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 17:34:07.9000 Info Registered target FileTarget(Name=allfile)
+2024-05-15 17:34:07.9314 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 17:34:07.9853 Info Closing old configuration.
+2024-05-15 17:34:08.0331 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 18:20:43.7223 Info Message Template Auto Format enabled
+2024-05-15 18:20:43.7486 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 18:20:43.9269 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 18:20:44.1472 Info Registered target FileTarget(Name=allfile)
+2024-05-15 18:20:44.2626 Info Message Template Auto Format enabled
+2024-05-15 18:20:44.2626 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 18:20:44.2626 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 18:20:44.2768 Info Registered target FileTarget(Name=allfile)
+2024-05-15 18:20:44.2916 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 18:20:44.3234 Info Closing old configuration.
+2024-05-15 18:20:44.4768 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 18:22:21.6876 Info Message Template Auto Format enabled
+2024-05-15 18:22:21.7379 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 18:22:21.9884 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 18:22:22.2829 Info Registered target FileTarget(Name=allfile)
+2024-05-15 18:22:22.4044 Info Message Template Auto Format enabled
+2024-05-15 18:22:22.4240 Info Loading assembly: NLog.Extensions.Logging
+2024-05-15 18:22:22.4933 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-15 18:22:22.5114 Info Registered target FileTarget(Name=allfile)
+2024-05-15 18:22:22.6452 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-15 18:22:22.7161 Info Closing old configuration.
+2024-05-15 18:22:22.8952 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 10:35:28.0852 Info Message Template Auto Format enabled
+2024-05-16 10:35:28.1259 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 10:35:28.3001 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 10:35:28.4883 Info Registered target FileTarget(Name=allfile)
+2024-05-16 10:35:28.5877 Info Message Template Auto Format enabled
+2024-05-16 10:35:28.5877 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 10:35:28.5877 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 10:35:28.6029 Info Registered target FileTarget(Name=allfile)
+2024-05-16 10:35:28.6278 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 10:35:28.6736 Info Closing old configuration.
+2024-05-16 10:35:28.7484 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:19:46.6124 Info Message Template Auto Format enabled
+2024-05-16 11:19:46.7918 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:19:47.2969 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:19:47.8229 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:19:47.9501 Info Message Template Auto Format enabled
+2024-05-16 11:19:47.9511 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:19:47.9511 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:19:47.9511 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:19:47.9692 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:19:47.9892 Info Closing old configuration.
+2024-05-16 11:19:48.0713 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:20:25.0092 Info Message Template Auto Format enabled
+2024-05-16 11:20:25.1086 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:20:25.3038 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:20:25.4636 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:20:25.5418 Info Message Template Auto Format enabled
+2024-05-16 11:20:25.5418 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:20:25.5418 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:20:25.5506 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:20:25.5658 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:20:25.5997 Info Closing old configuration.
+2024-05-16 11:20:25.6366 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:39:39.7842 Info Message Template Auto Format enabled
+2024-05-16 11:39:39.8562 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:39:40.5754 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:39:41.6408 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:39:41.7506 Info Message Template Auto Format enabled
+2024-05-16 11:39:41.7526 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:39:41.7526 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:39:41.7526 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:39:41.7852 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:39:41.8274 Info Closing old configuration.
+2024-05-16 11:39:41.8651 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:40:45.1401 Info Message Template Auto Format enabled
+2024-05-16 11:40:45.1940 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:40:47.0869 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:40:47.2680 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:40:47.3691 Info Message Template Auto Format enabled
+2024-05-16 11:40:47.3691 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:40:47.3691 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:40:47.3810 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:40:47.4042 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:40:47.4459 Info Closing old configuration.
+2024-05-16 11:40:47.4787 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:41:11.0614 Info Message Template Auto Format enabled
+2024-05-16 11:41:11.0963 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:41:11.2698 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:41:11.4438 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:41:11.5384 Info Message Template Auto Format enabled
+2024-05-16 11:41:11.5384 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:41:11.5384 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:41:11.5384 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:41:11.5647 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:41:11.6014 Info Closing old configuration.
+2024-05-16 11:41:11.6339 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:41:55.8580 Info Message Template Auto Format enabled
+2024-05-16 11:41:55.8971 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:41:56.0484 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:41:56.2646 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:41:56.3878 Info Message Template Auto Format enabled
+2024-05-16 11:41:56.3878 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:41:56.3878 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:41:56.3997 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:41:56.4205 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:41:56.4794 Info Closing old configuration.
+2024-05-16 11:41:56.5144 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:43:02.6301 Info Message Template Auto Format enabled
+2024-05-16 11:43:02.6666 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:43:02.8365 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:43:02.9929 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:43:03.0881 Info Message Template Auto Format enabled
+2024-05-16 11:43:03.0881 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:43:03.0881 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:43:03.0881 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:43:03.1138 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:43:03.1477 Info Closing old configuration.
+2024-05-16 11:43:03.1815 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:45:48.6315 Info Message Template Auto Format enabled
+2024-05-16 11:45:48.6771 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:45:48.8889 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:45:49.0926 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:45:49.1894 Info Message Template Auto Format enabled
+2024-05-16 11:45:49.1909 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:45:49.1909 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:45:49.1909 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:45:49.1909 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:45:49.2522 Info Closing old configuration.
+2024-05-16 11:45:49.2850 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:48:26.5403 Info Message Template Auto Format enabled
+2024-05-16 11:48:26.8444 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:48:26.9906 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:48:27.1820 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:48:27.2841 Info Message Template Auto Format enabled
+2024-05-16 11:48:27.2841 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:48:27.2841 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:48:27.2841 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:48:27.3139 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:48:27.3478 Info Closing old configuration.
+2024-05-16 11:48:27.3748 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:49:39.5929 Info Message Template Auto Format enabled
+2024-05-16 11:49:40.3732 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:49:40.6350 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:49:40.8378 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:49:40.9310 Info Message Template Auto Format enabled
+2024-05-16 11:49:40.9329 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:49:40.9329 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:49:40.9437 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:49:40.9437 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:49:40.9921 Info Closing old configuration.
+2024-05-16 11:49:41.0270 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:51:26.4135 Info Message Template Auto Format enabled
+2024-05-16 11:51:26.4686 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:51:27.5471 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:51:27.7370 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:51:27.8329 Info Message Template Auto Format enabled
+2024-05-16 11:51:27.8329 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:51:27.8329 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:51:27.8329 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:51:27.8618 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:51:27.9015 Info Closing old configuration.
+2024-05-16 11:51:27.9346 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:52:24.6751 Info Message Template Auto Format enabled
+2024-05-16 11:52:24.7158 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:52:25.0371 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:52:25.7185 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:52:26.3692 Info Message Template Auto Format enabled
+2024-05-16 11:52:26.3692 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 11:52:26.3692 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 11:52:26.3795 Info Registered target FileTarget(Name=allfile)
+2024-05-16 11:52:26.4009 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 11:52:26.4451 Info Closing old configuration.
+2024-05-16 11:52:26.4756 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:06:44.5730 Info Message Template Auto Format enabled
+2024-05-16 16:06:44.6974 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:06:45.2848 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:06:45.9598 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:06:46.1269 Info Message Template Auto Format enabled
+2024-05-16 16:06:46.1269 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:06:46.1269 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:06:46.1269 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:06:46.1514 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:06:46.1916 Info Closing old configuration.
+2024-05-16 16:06:46.2832 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:11:20.8561 Info Message Template Auto Format enabled
+2024-05-16 16:11:20.9496 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:11:21.4388 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:11:21.5955 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:11:21.6914 Info Message Template Auto Format enabled
+2024-05-16 16:11:21.6914 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:11:21.6914 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:11:21.7088 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:11:21.7289 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:11:21.7639 Info Closing old configuration.
+2024-05-16 16:11:21.7932 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:15:01.9791 Info Message Template Auto Format enabled
+2024-05-16 16:15:02.1106 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:15:02.4989 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:15:02.6542 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:15:02.7648 Info Message Template Auto Format enabled
+2024-05-16 16:15:02.7648 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:15:02.7682 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:15:02.7682 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:15:02.7964 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:15:02.8338 Info Closing old configuration.
+2024-05-16 16:15:02.8788 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:48:57.9294 Info Message Template Auto Format enabled
+2024-05-16 16:48:57.9640 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:48:58.2598 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:48:58.8929 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:48:59.0166 Info Message Template Auto Format enabled
+2024-05-16 16:48:59.0166 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:48:59.0188 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:48:59.0188 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:48:59.0392 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:48:59.0730 Info Closing old configuration.
+2024-05-16 16:48:59.1142 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:53:07.3898 Info Message Template Auto Format enabled
+2024-05-16 16:53:07.4238 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:53:07.5811 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:53:07.7441 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:53:07.8385 Info Message Template Auto Format enabled
+2024-05-16 16:53:07.8385 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:53:07.8385 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:53:07.8481 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:53:07.8643 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:53:07.8998 Info Closing old configuration.
+2024-05-16 16:53:07.9320 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:55:39.2007 Info Message Template Auto Format enabled
+2024-05-16 16:55:39.2498 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:55:39.4059 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:55:39.5518 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:55:39.6246 Info Message Template Auto Format enabled
+2024-05-16 16:55:39.6246 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:55:39.6276 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:55:39.6276 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:55:39.6543 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:55:39.7082 Info Closing old configuration.
+2024-05-16 16:55:39.7589 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:56:51.3686 Info Message Template Auto Format enabled
+2024-05-16 16:56:51.4067 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:56:51.5432 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:56:51.7769 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:56:51.9085 Info Message Template Auto Format enabled
+2024-05-16 16:56:51.9248 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 16:56:51.9248 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 16:56:51.9939 Info Registered target FileTarget(Name=allfile)
+2024-05-16 16:56:52.0105 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 16:56:52.0437 Info Closing old configuration.
+2024-05-16 16:56:52.0803 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:01:22.0799 Info Message Template Auto Format enabled
+2024-05-16 17:01:22.1540 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:01:22.5556 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:01:22.9440 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:01:23.0948 Info Message Template Auto Format enabled
+2024-05-16 17:01:23.0967 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:01:23.0967 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:01:23.0967 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:01:23.1419 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:01:23.4531 Info Closing old configuration.
+2024-05-16 17:01:24.0010 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:06:26.7423 Info Message Template Auto Format enabled
+2024-05-16 17:06:26.7960 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:06:26.9910 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:06:27.1704 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:06:27.2570 Info Message Template Auto Format enabled
+2024-05-16 17:06:27.2570 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:06:27.2570 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:06:27.2707 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:06:27.2901 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:06:27.3325 Info Closing old configuration.
+2024-05-16 17:06:27.3649 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:08:18.7805 Info Message Template Auto Format enabled
+2024-05-16 17:08:18.8121 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:08:19.0852 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:08:20.1672 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:08:21.2443 Info Message Template Auto Format enabled
+2024-05-16 17:08:21.2553 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:08:21.2553 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:08:21.2723 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:08:21.2963 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:08:21.3670 Info Closing old configuration.
+2024-05-16 17:08:21.4366 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:08:51.8599 Info Message Template Auto Format enabled
+2024-05-16 17:08:51.9970 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:08:52.1612 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:08:52.3248 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:08:52.4194 Info Message Template Auto Format enabled
+2024-05-16 17:08:52.4194 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:08:52.4194 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:08:52.4317 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:08:52.4514 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:08:52.4983 Info Closing old configuration.
+2024-05-16 17:08:52.5310 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:24:26.0190 Info Message Template Auto Format enabled
+2024-05-16 17:24:26.0821 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:24:26.3117 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:24:26.4782 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:24:26.5598 Info Message Template Auto Format enabled
+2024-05-16 17:24:26.5598 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:24:26.5598 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:24:26.5685 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:24:26.5828 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:24:26.6182 Info Closing old configuration.
+2024-05-16 17:24:26.6499 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:33:06.6079 Info Message Template Auto Format enabled
+2024-05-16 17:33:06.6411 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:33:06.8537 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:33:07.1278 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:33:07.2550 Info Message Template Auto Format enabled
+2024-05-16 17:33:07.2550 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:33:07.2550 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:33:07.2550 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:33:07.2784 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:33:07.3126 Info Closing old configuration.
+2024-05-16 17:33:07.3424 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:33:32.3721 Info Message Template Auto Format enabled
+2024-05-16 17:33:32.4120 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:33:32.7594 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:33:33.4844 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:33:34.2224 Info Message Template Auto Format enabled
+2024-05-16 17:33:34.2224 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:33:34.2224 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:33:34.2224 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:33:34.2533 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:33:34.2951 Info Closing old configuration.
+2024-05-16 17:33:34.3305 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:44:03.7725 Info Message Template Auto Format enabled
+2024-05-16 17:44:03.8203 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:44:04.1879 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:44:04.4846 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:44:05.3507 Info Message Template Auto Format enabled
+2024-05-16 17:44:05.3507 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:44:05.3507 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:44:05.3708 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:44:05.3949 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:44:05.4924 Info Closing old configuration.
+2024-05-16 17:44:05.5269 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:55:19.6755 Info Message Template Auto Format enabled
+2024-05-16 17:55:19.7010 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:55:19.8748 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:55:20.0345 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:55:20.1351 Info Message Template Auto Format enabled
+2024-05-16 17:55:20.1351 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 17:55:20.1351 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 17:55:20.1466 Info Registered target FileTarget(Name=allfile)
+2024-05-16 17:55:20.1908 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 17:55:20.2367 Info Closing old configuration.
+2024-05-16 17:55:20.3055 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 18:47:40.7505 Info Message Template Auto Format enabled
+2024-05-16 18:47:40.8097 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 18:47:41.0323 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 18:47:41.2233 Info Registered target FileTarget(Name=allfile)
+2024-05-16 18:47:41.3314 Info Message Template Auto Format enabled
+2024-05-16 18:47:41.3314 Info Loading assembly: NLog.Extensions.Logging
+2024-05-16 18:47:41.3314 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-16 18:47:41.3314 Info Registered target FileTarget(Name=allfile)
+2024-05-16 18:47:41.3605 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-16 18:47:41.4030 Info Closing old configuration.
+2024-05-16 18:47:41.4407 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:21:04.4568 Info Message Template Auto Format enabled
+2024-05-17 11:21:05.9010 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:21:06.7573 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:21:07.4667 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:21:07.6306 Info Message Template Auto Format enabled
+2024-05-17 11:21:07.6306 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:21:07.6306 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:21:07.6306 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:21:07.6570 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:21:07.7024 Info Closing old configuration.
+2024-05-17 11:21:07.7946 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:22:45.9563 Info Message Template Auto Format enabled
+2024-05-17 11:22:46.0056 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:22:46.1616 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:22:46.3448 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:22:46.4430 Info Message Template Auto Format enabled
+2024-05-17 11:22:46.4430 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:22:46.4430 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:22:46.4430 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:22:46.4705 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:22:46.5100 Info Closing old configuration.
+2024-05-17 11:22:46.5460 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:23:45.4818 Info Message Template Auto Format enabled
+2024-05-17 11:23:45.5193 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:23:45.6439 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:23:47.0210 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:23:47.1176 Info Message Template Auto Format enabled
+2024-05-17 11:23:47.1176 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:23:47.1176 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:23:47.1280 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:23:47.1437 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:23:47.1830 Info Closing old configuration.
+2024-05-17 11:23:47.2172 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:26:46.9997 Info Message Template Auto Format enabled
+2024-05-17 11:26:47.0385 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:26:47.2145 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:26:47.4034 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:26:47.5124 Info Message Template Auto Format enabled
+2024-05-17 11:26:47.5124 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:26:47.5124 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:26:47.5256 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:26:47.5553 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:26:47.6017 Info Closing old configuration.
+2024-05-17 11:26:47.6396 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:27:42.8624 Info Message Template Auto Format enabled
+2024-05-17 11:27:43.6304 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:27:43.8954 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:27:44.1311 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:27:44.2363 Info Message Template Auto Format enabled
+2024-05-17 11:27:44.2363 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:27:44.2363 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:27:44.2363 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:27:44.2687 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:27:44.3137 Info Closing old configuration.
+2024-05-17 11:27:44.3471 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:35:22.9085 Info Message Template Auto Format enabled
+2024-05-17 11:35:23.0122 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:35:23.2010 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:35:23.3690 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:35:23.4660 Info Message Template Auto Format enabled
+2024-05-17 11:35:23.4686 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:35:23.4686 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:35:23.4772 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:35:23.4949 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:35:23.5342 Info Closing old configuration.
+2024-05-17 11:35:23.5678 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:36:11.3130 Info Message Template Auto Format enabled
+2024-05-17 11:36:11.3747 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:36:11.5451 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:36:11.7182 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:36:11.8379 Info Message Template Auto Format enabled
+2024-05-17 11:36:11.8379 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:36:11.8379 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:36:11.8714 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:36:12.0134 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:36:12.0861 Info Closing old configuration.
+2024-05-17 11:36:12.5123 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:38:14.7822 Info Message Template Auto Format enabled
+2024-05-17 11:38:14.8274 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:38:14.9849 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:38:15.1654 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:38:15.2608 Info Message Template Auto Format enabled
+2024-05-17 11:38:15.2624 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:38:15.2624 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:38:15.2624 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:38:15.2875 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:38:15.3252 Info Closing old configuration.
+2024-05-17 11:38:15.3578 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:42:58.3279 Info Message Template Auto Format enabled
+2024-05-17 11:42:58.3826 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:42:58.7737 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:42:59.0000 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:42:59.1005 Info Message Template Auto Format enabled
+2024-05-17 11:42:59.1026 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:42:59.1026 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:42:59.1026 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:42:59.1241 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:42:59.1606 Info Closing old configuration.
+2024-05-17 11:42:59.1920 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:45:41.5017 Info Message Template Auto Format enabled
+2024-05-17 11:45:41.5614 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:45:41.7196 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:45:41.8942 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:45:41.9875 Info Message Template Auto Format enabled
+2024-05-17 11:45:41.9890 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:45:41.9890 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:45:41.9890 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:45:41.9890 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:45:42.0511 Info Closing old configuration.
+2024-05-17 11:45:42.0852 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:49:11.8819 Info Message Template Auto Format enabled
+2024-05-17 11:49:11.9956 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:49:13.1072 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:49:13.3324 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:49:13.4780 Info Message Template Auto Format enabled
+2024-05-17 11:49:13.4780 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:49:13.4780 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:49:13.4901 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:49:13.5286 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:49:13.5850 Info Closing old configuration.
+2024-05-17 11:49:13.6269 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:49:41.4352 Info Message Template Auto Format enabled
+2024-05-17 11:49:41.5433 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:49:41.7407 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:49:41.8983 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:49:41.9937 Info Message Template Auto Format enabled
+2024-05-17 11:49:41.9937 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 11:49:41.9937 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 11:49:42.0043 Info Registered target FileTarget(Name=allfile)
+2024-05-17 11:49:42.0219 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 11:49:42.0619 Info Closing old configuration.
+2024-05-17 11:49:42.1028 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:03:17.1797 Info Message Template Auto Format enabled
+2024-05-17 12:03:17.2215 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:03:17.4113 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:03:17.6031 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:03:17.6965 Info Message Template Auto Format enabled
+2024-05-17 12:03:17.6993 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:03:17.6993 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:03:17.7115 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:03:17.7317 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:03:17.7815 Info Closing old configuration.
+2024-05-17 12:03:17.8278 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:06:23.7710 Info Message Template Auto Format enabled
+2024-05-17 12:06:23.8105 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:06:23.9637 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:06:24.1280 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:06:24.2148 Info Message Template Auto Format enabled
+2024-05-17 12:06:24.2148 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:06:24.2148 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:06:24.2148 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:06:24.2491 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:06:24.2843 Info Closing old configuration.
+2024-05-17 12:06:24.3161 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:07:23.5174 Info Message Template Auto Format enabled
+2024-05-17 12:07:23.5548 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:07:23.7352 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:07:23.9229 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:07:24.0238 Info Message Template Auto Format enabled
+2024-05-17 12:07:24.0238 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:07:24.0238 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:07:24.0238 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:07:24.0534 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:07:24.0971 Info Closing old configuration.
+2024-05-17 12:07:24.2555 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:10:21.6473 Info Message Template Auto Format enabled
+2024-05-17 12:10:22.1544 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:10:23.2394 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:10:23.4421 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:10:23.5429 Info Message Template Auto Format enabled
+2024-05-17 12:10:23.5429 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 12:10:23.5429 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 12:10:23.5576 Info Registered target FileTarget(Name=allfile)
+2024-05-17 12:10:23.5734 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 12:10:23.6126 Info Closing old configuration.
+2024-05-17 12:10:23.6448 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 15:28:12.0753 Info Message Template Auto Format enabled
+2024-05-17 15:28:12.6520 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 15:28:13.8622 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 15:28:14.1179 Info Registered target FileTarget(Name=allfile)
+2024-05-17 15:28:14.2151 Info Message Template Auto Format enabled
+2024-05-17 15:28:14.2151 Info Loading assembly: NLog.Extensions.Logging
+2024-05-17 15:28:14.2151 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-17 15:28:14.2262 Info Registered target FileTarget(Name=allfile)
+2024-05-17 15:28:14.2474 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-17 15:28:14.2827 Info Closing old configuration.
+2024-05-17 15:28:14.3132 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 10:56:52.2466 Info Message Template Auto Format enabled
+2024-05-21 10:56:52.5192 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 10:56:53.2844 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 10:56:54.0491 Info Registered target FileTarget(Name=allfile)
+2024-05-21 10:56:54.2822 Info Message Template Auto Format enabled
+2024-05-21 10:56:54.2822 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 10:56:54.2822 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 10:56:54.2822 Info Registered target FileTarget(Name=allfile)
+2024-05-21 10:56:54.3071 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 10:56:54.3430 Info Closing old configuration.
+2024-05-21 10:56:54.4371 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:42:41.2650 Info Message Template Auto Format enabled
+2024-05-21 11:42:41.3748 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:42:41.5599 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:42:41.7589 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:42:41.8518 Info Message Template Auto Format enabled
+2024-05-21 11:42:41.8518 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:42:41.8559 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:42:41.8559 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:42:41.8767 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:42:41.9115 Info Closing old configuration.
+2024-05-21 11:42:41.9423 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:44:01.5593 Info Message Template Auto Format enabled
+2024-05-21 11:44:01.5985 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:44:01.8815 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:44:02.0719 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:44:02.1683 Info Message Template Auto Format enabled
+2024-05-21 11:44:02.1683 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:44:02.1683 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:44:02.1683 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:44:02.1917 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:44:02.2298 Info Closing old configuration.
+2024-05-21 11:44:02.2605 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:45:34.6112 Info Message Template Auto Format enabled
+2024-05-21 11:45:34.7138 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:45:34.8776 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:45:35.0552 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:45:35.1472 Info Message Template Auto Format enabled
+2024-05-21 11:45:35.1472 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:45:35.1472 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:45:35.1565 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:45:35.1721 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:45:35.2067 Info Closing old configuration.
+2024-05-21 11:45:35.2448 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:52:21.2215 Info Message Template Auto Format enabled
+2024-05-21 11:52:21.4217 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:52:22.0056 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:52:22.3032 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:52:22.4017 Info Message Template Auto Format enabled
+2024-05-21 11:52:22.4034 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 11:52:22.4034 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 11:52:22.4034 Info Registered target FileTarget(Name=allfile)
+2024-05-21 11:52:22.4340 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 11:52:22.4703 Info Closing old configuration.
+2024-05-21 11:52:22.4995 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:00:57.3108 Info Message Template Auto Format enabled
+2024-05-21 12:00:57.3457 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:00:57.5013 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:00:57.6590 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:00:57.7490 Info Message Template Auto Format enabled
+2024-05-21 12:00:57.7505 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:00:57.7505 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:00:57.7505 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:00:57.7795 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:00:57.8147 Info Closing old configuration.
+2024-05-21 12:00:57.8502 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:02:43.0640 Info Message Template Auto Format enabled
+2024-05-21 12:02:43.0996 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:02:43.2681 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:02:43.4413 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:02:43.5361 Info Message Template Auto Format enabled
+2024-05-21 12:02:43.5361 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:02:43.5361 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:02:43.5466 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:02:43.5659 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:02:43.6058 Info Closing old configuration.
+2024-05-21 12:02:43.6360 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:09:35.3261 Info Message Template Auto Format enabled
+2024-05-21 12:09:35.3745 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:09:35.5223 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:09:35.6868 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:09:35.7810 Info Message Template Auto Format enabled
+2024-05-21 12:09:35.7810 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:09:35.7810 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:09:35.7810 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:09:35.8085 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:09:35.8431 Info Closing old configuration.
+2024-05-21 12:09:35.8749 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:12:17.5623 Info Message Template Auto Format enabled
+2024-05-21 12:12:17.6011 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:12:17.7368 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:12:18.0006 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:12:18.0881 Info Message Template Auto Format enabled
+2024-05-21 12:12:18.0897 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 12:12:18.0897 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 12:12:18.0897 Info Registered target FileTarget(Name=allfile)
+2024-05-21 12:12:18.1142 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 12:12:18.1481 Info Closing old configuration.
+2024-05-21 12:12:18.1770 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 15:46:30.4124 Info Message Template Auto Format enabled
+2024-05-21 15:46:30.5608 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 15:46:31.1557 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 15:46:31.7068 Info Registered target FileTarget(Name=allfile)
+2024-05-21 15:46:31.8534 Info Message Template Auto Format enabled
+2024-05-21 15:46:31.8534 Info Loading assembly: NLog.Extensions.Logging
+2024-05-21 15:46:31.8557 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-21 15:46:31.8557 Info Registered target FileTarget(Name=allfile)
+2024-05-21 15:46:31.8714 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-21 15:46:31.9020 Info Closing old configuration.
+2024-05-21 15:46:31.9786 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:51:45.5679 Info Message Template Auto Format enabled
+2024-05-22 10:51:45.6106 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:51:45.8339 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:51:46.0322 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:51:46.6807 Info Message Template Auto Format enabled
+2024-05-22 10:51:46.6807 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:51:46.6847 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:51:46.6847 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:51:46.7102 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:51:46.7447 Info Closing old configuration.
+2024-05-22 10:51:46.7819 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:54:15.5287 Info Message Template Auto Format enabled
+2024-05-22 10:54:15.5651 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:54:15.8099 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:54:17.2464 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:54:17.3514 Info Message Template Auto Format enabled
+2024-05-22 10:54:17.3514 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:54:17.3514 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:54:17.3604 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:54:17.3763 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:54:17.4102 Info Closing old configuration.
+2024-05-22 10:54:17.4407 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:55:50.4564 Info Message Template Auto Format enabled
+2024-05-22 10:55:50.4885 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:55:50.7126 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:55:52.2504 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:55:52.3645 Info Message Template Auto Format enabled
+2024-05-22 10:55:52.3645 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:55:52.3645 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:55:52.3770 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:55:52.3961 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:55:52.4338 Info Closing old configuration.
+2024-05-22 10:55:52.4742 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:58:13.1286 Info Message Template Auto Format enabled
+2024-05-22 10:58:13.1797 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:58:13.3182 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:58:13.5472 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:58:14.1391 Info Message Template Auto Format enabled
+2024-05-22 10:58:14.1391 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:58:14.1520 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:58:14.2831 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:58:14.5161 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:58:14.7671 Info Closing old configuration.
+2024-05-22 10:58:14.9659 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:59:19.6914 Info Message Template Auto Format enabled
+2024-05-22 10:59:19.7301 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:59:19.8416 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:59:19.9710 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:59:20.0729 Info Message Template Auto Format enabled
+2024-05-22 10:59:20.0767 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 10:59:20.0767 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 10:59:20.0988 Info Registered target FileTarget(Name=allfile)
+2024-05-22 10:59:20.1149 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 10:59:20.1616 Info Closing old configuration.
+2024-05-22 10:59:20.3015 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:04:35.1763 Info Message Template Auto Format enabled
+2024-05-22 11:04:35.3018 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:04:36.0099 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:04:37.3862 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:04:37.5840 Info Message Template Auto Format enabled
+2024-05-22 11:04:37.5840 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:04:37.5840 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:04:37.5935 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:04:37.6103 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:04:37.6494 Info Closing old configuration.
+2024-05-22 11:04:37.6870 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:05:48.5265 Info Message Template Auto Format enabled
+2024-05-22 11:05:48.6365 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:05:50.7611 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:05:50.9449 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:05:51.0592 Info Message Template Auto Format enabled
+2024-05-22 11:05:51.0592 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:05:51.0592 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:05:51.0592 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:05:51.0879 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:05:51.1263 Info Closing old configuration.
+2024-05-22 11:05:51.1661 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:06:52.7816 Info Message Template Auto Format enabled
+2024-05-22 11:06:52.8133 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:06:53.0812 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:06:54.4942 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:06:54.6101 Info Message Template Auto Format enabled
+2024-05-22 11:06:54.6101 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:06:54.6101 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:06:54.6101 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:06:54.6352 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:06:54.6785 Info Closing old configuration.
+2024-05-22 11:06:54.7136 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:09:00.8991 Info Message Template Auto Format enabled
+2024-05-22 11:09:00.9368 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:09:01.1002 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:09:01.2634 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:09:01.3677 Info Message Template Auto Format enabled
+2024-05-22 11:09:01.3677 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:09:01.3707 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:09:01.3707 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:09:01.3925 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:09:01.4325 Info Closing old configuration.
+2024-05-22 11:09:01.4673 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:10:34.0159 Info Message Template Auto Format enabled
+2024-05-22 11:10:34.1016 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:10:35.4196 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:10:35.7157 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:10:35.8259 Info Message Template Auto Format enabled
+2024-05-22 11:10:35.8259 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:10:35.8259 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:10:35.8259 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:10:35.8528 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:10:35.8881 Info Closing old configuration.
+2024-05-22 11:10:35.9320 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:12:13.4199 Info Message Template Auto Format enabled
+2024-05-22 11:12:13.4577 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:12:13.6155 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:12:13.7832 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:12:13.8954 Info Message Template Auto Format enabled
+2024-05-22 11:12:13.8954 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:12:13.8954 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:12:13.9060 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:12:13.9211 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:12:13.9605 Info Closing old configuration.
+2024-05-22 11:12:13.9910 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:13:27.4958 Info Message Template Auto Format enabled
+2024-05-22 11:13:28.1802 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:13:28.7681 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:13:28.9338 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:13:29.0582 Info Message Template Auto Format enabled
+2024-05-22 11:13:29.0582 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:13:29.0582 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:13:29.0582 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:13:29.0819 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:13:29.1224 Info Closing old configuration.
+2024-05-22 11:13:29.1224 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:19:09.8760 Info Message Template Auto Format enabled
+2024-05-22 11:19:09.9170 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:19:10.2162 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:19:10.8557 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:19:11.4823 Info Message Template Auto Format enabled
+2024-05-22 11:19:11.4823 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:19:11.4823 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:19:11.4823 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:19:11.5111 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:19:11.5636 Info Closing old configuration.
+2024-05-22 11:19:11.6092 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:31:40.3745 Info Message Template Auto Format enabled
+2024-05-22 11:31:40.6830 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:31:41.8200 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:31:42.0098 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:31:42.1823 Info Message Template Auto Format enabled
+2024-05-22 11:31:42.1838 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 11:31:42.1838 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 11:31:42.1838 Info Registered target FileTarget(Name=allfile)
+2024-05-22 11:31:42.2165 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 11:31:42.2646 Info Closing old configuration.
+2024-05-22 11:31:42.3024 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 12:11:01.6325 Info Message Template Auto Format enabled
+2024-05-22 12:11:01.6630 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 12:11:01.7884 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 12:11:02.2598 Info Registered target FileTarget(Name=allfile)
+2024-05-22 12:11:03.2702 Info Message Template Auto Format enabled
+2024-05-22 12:11:03.4350 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 12:11:03.5321 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 12:11:03.5590 Info Registered target FileTarget(Name=allfile)
+2024-05-22 12:11:03.7079 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 12:11:03.7786 Info Closing old configuration.
+2024-05-22 12:11:03.8403 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 12:15:29.2349 Info Message Template Auto Format enabled
+2024-05-22 12:15:29.4102 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 12:15:29.5779 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 12:15:29.7765 Info Registered target FileTarget(Name=allfile)
+2024-05-22 12:15:29.9036 Info Message Template Auto Format enabled
+2024-05-22 12:15:29.9036 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 12:15:29.9036 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 12:15:29.9036 Info Registered target FileTarget(Name=allfile)
+2024-05-22 12:15:29.9326 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 12:15:29.9822 Info Closing old configuration.
+2024-05-22 12:15:30.0159 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:19:53.1851 Info Message Template Auto Format enabled
+2024-05-22 15:19:53.3582 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:19:54.1203 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:19:54.8118 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:19:55.2795 Info Message Template Auto Format enabled
+2024-05-22 15:19:55.2795 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:19:55.2795 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:19:55.2795 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:19:55.2979 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:19:55.3216 Info Closing old configuration.
+2024-05-22 15:19:55.3929 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:30:21.2966 Info Message Template Auto Format enabled
+2024-05-22 15:30:21.3344 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:30:21.4803 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:30:21.6440 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:30:46.2189 Info Message Template Auto Format enabled
+2024-05-22 15:30:46.2294 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:30:46.2294 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:30:46.2526 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:30:46.2635 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:30:46.3039 Info Closing old configuration.
+2024-05-22 15:30:46.3289 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:32:39.7342 Info Message Template Auto Format enabled
+2024-05-22 15:32:39.8627 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:32:41.2608 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:32:41.5532 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:33:34.2496 Info Message Template Auto Format enabled
+2024-05-22 15:33:34.2592 Info Loading assembly: NLog.Extensions.Logging
+2024-05-22 15:33:34.2592 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-22 15:33:34.2807 Info Registered target FileTarget(Name=allfile)
+2024-05-22 15:33:34.3022 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-22 15:33:34.3238 Info Closing old configuration.
+2024-05-22 15:33:34.3484 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 16:44:07.6590 Info Message Template Auto Format enabled
+2024-05-23 16:44:07.7008 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:44:09.3923 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:44:10.0706 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:45:10.0433 Info Message Template Auto Format enabled
+2024-05-23 16:45:10.0795 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:45:11.0121 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:45:12.0172 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:46:53.9391 Info Message Template Auto Format enabled
+2024-05-23 16:46:54.0081 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:46:54.1760 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:46:54.3135 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:49:37.9444 Info Message Template Auto Format enabled
+2024-05-23 16:49:37.9772 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:49:38.1055 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:49:38.2594 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:52:30.9324 Info Message Template Auto Format enabled
+2024-05-23 16:52:30.9692 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:52:31.7697 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:52:32.2380 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:52:32.4314 Info Message Template Auto Format enabled
+2024-05-23 16:52:32.4537 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 16:52:32.4617 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 16:52:32.4617 Info Registered target FileTarget(Name=allfile)
+2024-05-23 16:52:32.4891 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 16:52:32.5345 Info Closing old configuration.
+2024-05-23 16:52:32.5753 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:04:25.3925 Info Message Template Auto Format enabled
+2024-05-23 17:04:25.4261 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:04:27.5868 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:04:27.8283 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:04:27.9452 Info Message Template Auto Format enabled
+2024-05-23 17:04:27.9452 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:04:27.9452 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:04:27.9452 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:04:27.9857 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:04:28.0474 Info Closing old configuration.
+2024-05-23 17:04:28.0837 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:11:55.9678 Info Message Template Auto Format enabled
+2024-05-23 17:11:56.0099 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:11:56.1591 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:11:56.3042 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:11:56.3880 Info Message Template Auto Format enabled
+2024-05-23 17:11:56.3880 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:11:56.3880 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:11:56.3880 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:11:56.4115 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:11:56.4470 Info Closing old configuration.
+2024-05-23 17:11:56.4777 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:25:26.3430 Info Message Template Auto Format enabled
+2024-05-23 17:25:26.3994 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:25:26.6367 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:25:26.8285 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:25:26.9231 Info Message Template Auto Format enabled
+2024-05-23 17:25:26.9231 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 17:25:26.9292 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 17:25:26.9292 Info Registered target FileTarget(Name=allfile)
+2024-05-23 17:25:26.9569 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 17:25:26.9953 Info Closing old configuration.
+2024-05-23 17:25:27.0288 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:07:21.1197 Info Message Template Auto Format enabled
+2024-05-23 18:07:21.1725 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:07:21.4386 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:07:21.6155 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:07:21.8349 Info Message Template Auto Format enabled
+2024-05-23 18:07:21.9513 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:07:21.9957 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:07:22.0129 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:07:22.0685 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:07:22.1506 Info Closing old configuration.
+2024-05-23 18:07:22.4674 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:11:51.0680 Info Message Template Auto Format enabled
+2024-05-23 18:11:51.1246 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:11:52.8725 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:11:53.0895 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:11:53.2185 Info Message Template Auto Format enabled
+2024-05-23 18:11:53.2185 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:11:53.2185 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:11:53.2326 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:11:53.2595 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:11:53.3436 Info Closing old configuration.
+2024-05-23 18:11:53.3738 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:34:07.4875 Info Message Template Auto Format enabled
+2024-05-23 18:34:07.5148 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:34:07.6847 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:34:08.1631 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:34:08.4571 Info Message Template Auto Format enabled
+2024-05-23 18:34:08.4629 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:34:08.5680 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:34:09.4841 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:34:09.5085 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:34:09.6521 Info Closing old configuration.
+2024-05-23 18:34:10.4024 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:38:51.9680 Info Message Template Auto Format enabled
+2024-05-23 18:38:52.3458 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:38:54.4586 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:38:54.6648 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:38:54.8053 Info Message Template Auto Format enabled
+2024-05-23 18:38:54.8053 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:38:54.8053 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:38:54.8218 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:38:54.8417 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:38:54.9106 Info Closing old configuration.
+2024-05-23 18:38:54.9966 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:41:37.3527 Info Message Template Auto Format enabled
+2024-05-23 18:41:37.3999 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:41:37.6383 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:41:37.8238 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:41:37.9283 Info Message Template Auto Format enabled
+2024-05-23 18:41:37.9302 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:41:37.9302 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:41:37.9302 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:41:37.9565 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:41:37.9927 Info Closing old configuration.
+2024-05-23 18:41:38.0224 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:42:45.9810 Info Message Template Auto Format enabled
+2024-05-23 18:42:46.0203 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:42:46.1983 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:42:47.1109 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:42:47.5880 Info Message Template Auto Format enabled
+2024-05-23 18:42:47.5880 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:42:47.6054 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:42:47.6054 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:42:47.6425 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:42:47.6962 Info Closing old configuration.
+2024-05-23 18:42:47.7974 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:46:03.3285 Info Message Template Auto Format enabled
+2024-05-23 18:46:03.3726 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:46:03.5208 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:46:03.6714 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:46:03.7596 Info Message Template Auto Format enabled
+2024-05-23 18:46:03.7596 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:46:03.7596 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:46:03.7596 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:46:03.7883 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:46:03.8318 Info Closing old configuration.
+2024-05-23 18:46:03.8639 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:54:20.9903 Info Message Template Auto Format enabled
+2024-05-23 18:54:21.0289 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:54:21.3397 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:54:21.9981 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:54:22.1433 Info Message Template Auto Format enabled
+2024-05-23 18:54:22.1433 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 18:54:22.1482 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 18:54:22.1482 Info Registered target FileTarget(Name=allfile)
+2024-05-23 18:54:22.1790 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 18:54:22.2244 Info Closing old configuration.
+2024-05-23 18:54:22.2560 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:00:34.7355 Info Message Template Auto Format enabled
+2024-05-23 19:00:34.7833 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:00:35.0080 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:00:35.2103 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:00:35.3073 Info Message Template Auto Format enabled
+2024-05-23 19:00:35.3073 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:00:35.3073 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:00:35.3073 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:00:35.3391 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:00:35.4088 Info Closing old configuration.
+2024-05-23 19:00:35.4919 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:01:28.7387 Info Message Template Auto Format enabled
+2024-05-23 19:01:28.7731 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:01:28.9610 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:01:29.1827 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:01:29.3248 Info Message Template Auto Format enabled
+2024-05-23 19:01:29.3248 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:01:29.3248 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:01:29.3375 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:01:29.3542 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:01:29.4028 Info Closing old configuration.
+2024-05-23 19:01:29.4344 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:03:20.9538 Info Message Template Auto Format enabled
+2024-05-23 19:03:21.1154 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:03:21.6051 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:03:21.8074 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:03:21.9085 Info Message Template Auto Format enabled
+2024-05-23 19:03:21.9085 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:03:21.9085 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:03:21.9189 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:03:21.9352 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:03:21.9699 Info Closing old configuration.
+2024-05-23 19:03:22.0083 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:05:55.8049 Info Message Template Auto Format enabled
+2024-05-23 19:05:55.8560 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:05:56.2821 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:05:56.4754 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:05:56.5921 Info Message Template Auto Format enabled
+2024-05-23 19:05:56.5921 Info Loading assembly: NLog.Extensions.Logging
+2024-05-23 19:05:56.5921 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-23 19:05:56.6046 Info Registered target FileTarget(Name=allfile)
+2024-05-23 19:05:56.6243 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-23 19:05:56.6670 Info Closing old configuration.
+2024-05-23 19:05:56.6955 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:24:48.7237 Info Message Template Auto Format enabled
+2024-05-27 11:24:48.7586 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:24:48.9661 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:24:50.5671 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:24:50.7895 Info Message Template Auto Format enabled
+2024-05-27 11:24:50.7912 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:24:50.7912 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:24:50.7912 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:24:50.8136 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:24:50.8471 Info Closing old configuration.
+2024-05-27 11:24:50.8788 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:27:57.2842 Info Message Template Auto Format enabled
+2024-05-27 11:27:57.3202 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:27:59.3367 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:27:59.4956 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:27:59.6050 Info Message Template Auto Format enabled
+2024-05-27 11:27:59.6050 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:27:59.6050 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:27:59.6181 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:27:59.6380 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:27:59.6735 Info Closing old configuration.
+2024-05-27 11:27:59.7077 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:28:34.4189 Info Message Template Auto Format enabled
+2024-05-27 11:28:34.4874 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:28:35.8760 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:28:36.0422 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:28:36.1495 Info Message Template Auto Format enabled
+2024-05-27 11:28:36.1495 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:28:36.1495 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:28:36.1495 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:28:36.1772 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:28:36.2209 Info Closing old configuration.
+2024-05-27 11:28:36.2606 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:30:26.5065 Info Message Template Auto Format enabled
+2024-05-27 11:30:26.5763 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:30:27.2617 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:30:27.4250 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:30:27.5153 Info Message Template Auto Format enabled
+2024-05-27 11:30:27.5153 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:30:27.5153 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:30:27.5263 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:30:27.5450 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:30:27.5838 Info Closing old configuration.
+2024-05-27 11:30:28.0356 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:31:35.9298 Info Message Template Auto Format enabled
+2024-05-27 11:31:35.9696 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:31:36.1221 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:31:36.2975 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:31:36.3945 Info Message Template Auto Format enabled
+2024-05-27 11:31:36.3945 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:31:36.3945 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:31:36.4029 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:31:36.4166 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:31:36.4481 Info Closing old configuration.
+2024-05-27 11:31:36.4798 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:33:06.4687 Info Message Template Auto Format enabled
+2024-05-27 11:33:06.5104 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:33:06.6808 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:33:06.8814 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:33:07.9801 Info Message Template Auto Format enabled
+2024-05-27 11:33:07.9801 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:33:08.0214 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:33:08.0906 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:33:08.1249 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:33:08.2151 Info Closing old configuration.
+2024-05-27 11:33:08.2517 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:33:42.9169 Info Message Template Auto Format enabled
+2024-05-27 11:33:42.9808 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:33:44.7389 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:33:44.9203 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:33:45.0279 Info Message Template Auto Format enabled
+2024-05-27 11:33:45.0279 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:33:45.0279 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:33:45.0279 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:33:45.0532 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:33:45.0966 Info Closing old configuration.
+2024-05-27 11:33:45.1304 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:45:13.6308 Info Message Template Auto Format enabled
+2024-05-27 11:45:13.6953 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:45:14.9545 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:45:15.1699 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:45:15.2758 Info Message Template Auto Format enabled
+2024-05-27 11:45:15.2758 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:45:15.2758 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:45:15.2758 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:45:15.3050 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:45:15.3452 Info Closing old configuration.
+2024-05-27 11:45:15.3868 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:47:49.4799 Info Message Template Auto Format enabled
+2024-05-27 11:47:49.5215 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:47:49.6784 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:47:49.8489 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:47:49.9429 Info Message Template Auto Format enabled
+2024-05-27 11:47:49.9442 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:47:49.9442 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:47:49.9442 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:47:49.9683 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:47:50.0073 Info Closing old configuration.
+2024-05-27 11:47:50.0400 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:48:46.8811 Info Message Template Auto Format enabled
+2024-05-27 11:48:46.9404 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:48:47.0931 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:48:47.2774 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:48:47.3791 Info Message Template Auto Format enabled
+2024-05-27 11:48:47.3791 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:48:47.3823 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:48:47.3823 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:48:47.4116 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:48:47.4594 Info Closing old configuration.
+2024-05-27 11:48:47.4935 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:51:43.6343 Info Message Template Auto Format enabled
+2024-05-27 11:51:43.6730 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:51:43.9051 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:51:44.0729 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:51:44.1618 Info Message Template Auto Format enabled
+2024-05-27 11:51:44.1618 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:51:44.1647 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:51:44.1807 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:51:44.3865 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:51:44.4649 Info Closing old configuration.
+2024-05-27 11:51:45.2052 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:52:17.2810 Info Message Template Auto Format enabled
+2024-05-27 11:52:17.3222 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:52:17.4895 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:52:17.6508 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:52:17.7387 Info Message Template Auto Format enabled
+2024-05-27 11:52:17.7387 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:52:17.7418 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:52:17.7418 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:52:17.7647 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:52:17.8002 Info Closing old configuration.
+2024-05-27 11:52:17.8331 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:54:45.6270 Info Message Template Auto Format enabled
+2024-05-27 11:54:45.6956 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:54:45.8378 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:54:46.0023 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:54:46.0951 Info Message Template Auto Format enabled
+2024-05-27 11:54:46.0951 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:54:46.0951 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:54:46.1045 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:54:46.1230 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:54:46.1688 Info Closing old configuration.
+2024-05-27 11:54:46.2043 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:56:50.5108 Info Message Template Auto Format enabled
+2024-05-27 11:56:50.6802 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:56:51.1285 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:56:51.2854 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:56:51.3752 Info Message Template Auto Format enabled
+2024-05-27 11:56:51.3752 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 11:56:51.3752 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 11:56:51.3752 Info Registered target FileTarget(Name=allfile)
+2024-05-27 11:56:51.4033 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 11:56:51.4408 Info Closing old configuration.
+2024-05-27 11:56:51.4701 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:25:23.2947 Info Message Template Auto Format enabled
+2024-05-27 12:25:23.3315 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:25:23.4966 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:25:23.6653 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:25:23.7628 Info Message Template Auto Format enabled
+2024-05-27 12:25:23.7644 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:25:23.7644 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:25:23.7730 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:25:23.7730 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:25:23.8216 Info Closing old configuration.
+2024-05-27 12:25:23.8527 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:29:31.8705 Info Message Template Auto Format enabled
+2024-05-27 12:29:31.9111 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:29:32.2369 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:29:32.4445 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:29:32.5670 Info Message Template Auto Format enabled
+2024-05-27 12:29:32.5696 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:29:32.5696 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:29:32.6092 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:29:32.6260 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:29:32.6677 Info Closing old configuration.
+2024-05-27 12:29:32.6956 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:42:17.9329 Info Message Template Auto Format enabled
+2024-05-27 12:42:18.1091 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:42:18.3148 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:42:18.4838 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:42:18.5564 Info Message Template Auto Format enabled
+2024-05-27 12:42:18.5564 Info Loading assembly: NLog.Extensions.Logging
+2024-05-27 12:42:18.5564 Info Loading assembly: NLog.Web.AspNetCore
+2024-05-27 12:42:18.5564 Info Registered target FileTarget(Name=allfile)
+2024-05-27 12:42:18.5779 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog
+2024-05-27 12:42:18.6054 Info Closing old configuration.
+2024-05-27 12:42:18.6542 Info Validating config: TargetNames=allfile, ConfigItems=21 ConfigSection=NLog

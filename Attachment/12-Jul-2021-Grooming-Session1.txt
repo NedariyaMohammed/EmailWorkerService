@@ -1,0 +1,123 @@
+Grooming on Java
+==================
+- Object Oriented Programming in Java
+- Exception Handling
+- Collection
+- Thread
+- IO Streams
+- Packages - lang , regular expression
+
+Object Oriented Programming in Java
+=================================
+Question-1
+==========
+What is inheritance in object oriented Programming?
+
+Answer : Inheritance is one of the feature of the Object oriented programming.
+ This says that using the existing class's properties and methods|behaviours 
+to create a new class.
+ The basic objective of inheritance is to reduce redundancy or code duplication. 
+Java supports different kind of inheritance but does not support multiple inheritance
+using class but it can support using interface.
+
+Question-2
+===========
+What is method overriding and what are rules we need to follow? Which situation we need to use it?
+
+Answer : When super class method is not suitable to the sub class then in the sub class
+ we need to rewrite that method again.
+ The process of rewriting the method of the super class in sub class
+ is called method overriding. 
+Method overriding we will do when a super class has a global or abstract method 
+which need to be altered in the sub class.
+ Some of the rules we need to follow while we are doing to the method overriding 
+they are
+
+1. Method Name Should be same
+2. The Parameter level should be same
+3. The return type should be same.
+4. Access Specifier level should be same or higher.
+
+1.private Access Specifier - Can't be overrriden.
+2.default - Can be overriden in derived class using default , protected , public
+3.protected - Can be overriden in derived class using protected,public
+4.public - Can be overriden by public access specifier.
+
+Question-3
+==============
+What is final keyword? What are uses of this modifier?
+
+Answer : Final is a modifier(Static, Native , Transient, Synchronized). A modifier basically modifies the default properties of variable, method and class. In case when we apply the final modifier to the variable then we can't reinitialize. These variables are basically used for constants in a class or interfaces. Final variable need to be initialized at the time of declaration or in constructor. If a method is defined with final modifier then it can't be overriden but still it can be accessible by the sub class instance. A method will be declared as final when we know that this method does not require any alteration of the code for it in the derived class. A class can also be applied with final and if applied then the class can't be sub classed.  
+
+Question-4
+===========
+What is static keyword and its significance?
+
+Answer : Static is a modifier which will be applied to the variable , method , class or even to a block also.  A variable if defined as static then it will be a class variable which will be sharable to all the instance of that particular classs. This is a common variable for the all the instance of the class. We declare a methd as static if the method is basically work on the static variables and it is not specific to any instance. Static method does not require an instance memory to execute it executed using class keyword. The class also can be declared as static but it should be an inner class which will be act as a member of the outer class. Even we can declare a block as static and this block will be execute before the main() method.
+
+Question-5
+==========
+What is interface? 
+
+Answer : Interface is an 100% abstract class.
+It contains all the methods which are bydefault public and abstract. 
+The variables in the interface are static and final. 
+It means these variables will act as constants. 
+Interface is the behaviour protocol of a particular class. 
+It means what a class must do will be defined through interface. 
+Interface can be implemented to a class and multiple interfaces can do implement to a class.
+An interface can extend multiple interfaces hence java supports multiple inheritance using interface.
+
+Question-6
+===============
+What is the difference between the Abstract Class & Interface?
+
+Answer : Abstract class can have abstract method as well as concret methods , constructors and variables. We can extend only one abstract class at a time to another class. The sub class to the abstract class there should be a "a-kind-of" or "is-a" relationship should exist then only it can extends. 
+
+Interface can only have abstract methods and variables which are constants. We can have multiple interfaces can implement to a class. There should not require any relationship between the class to the interface to implement it. Interface can extend multiple interfaces by which it support multiple inheritance.
+
+Question-7
+============
+What is polymorphism? Difference between Runtime polymorphism and Static Polymorphism?
+
+Answer : Poly means multiple or many and morphism means forms so here it is multiple forms. It says that an object exhibit multiple forms or behaviours. Polymorphism applied in object oriented programming using overloading and overriding. Static polymorphism means here the object knows which method to be executed during the compile time itself. Method overloading is the concept of static polymorphism. In a runtime polymorphism object does not know which method to execute at the compilation time. It knows at the runtime. This is implemented using method overriding. 
+
+Question-8
+==============
+What is method overloading? 
+
+Answer : It is possible to write two or more methods with the same name provided their signatures are different. These methods are called as overloaded methods and the process is called method overloading. 
+
+Signature include 
+	1. Parameter Types
+		add(int , int)
+		add(double , double)
+	2. Parameter number
+		add(int , int )
+		add(int , int , int)
+	3. Order of Parameter
+		add(int , double)
+		add(double , int)
+
+Note : Using the return type we can't implement the method overloading.
+
+Question-9
+===========
+What is packages in java?
+
+Answer :  A package is a logical container in java which can contain the relevant classes and interfaces. 
+
+Question-10
+============
+What is an Object?
+
+Answer : Object is a physical instance or runtime instance of a particular class. Object has memory. 
+
+
+
+
+
+
+
+
+
